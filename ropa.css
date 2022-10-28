@@ -1,0 +1,22 @@
+.parrafo2{
+
+    color: violet;
+}
+#parrafo3id{
+    font-weight: bolder;
+    color: blue;
+
+}
+.parrafo3{
+    color: rgb(15, 138, 1);
+}
+body{
+    background-color: aquamarine;
+    font-size: 10px;
+}
+h1{
+    text-align: center;
+}
+.mayusculagrande{
+    font-size: 40px;
+}
